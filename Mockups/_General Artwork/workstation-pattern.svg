@@ -25,8 +25,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.1798862"
-     inkscape:cx="512.81744"
-     inkscape:cy="358.08224"
+     inkscape:cx="633.93907"
+     inkscape:cy="437.21841"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -56,24 +56,24 @@
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient36819"
-       id="radialGradient45181"
+       id="radialGradient45187"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.3016582,-8.5936154e-4,4.9814478e-4,0.75452345,-156.52268,67.289316)"
-       cx="512.42633"
-       cy="-372.24722"
-       fx="509.55902"
-       fy="-504.76996"
+       gradientTransform="matrix(1.6869914,0.0129405,-0.00556616,0.72563432,-354.9328,46.505448)"
+       cx="509.31549"
+       cy="-472.06638"
+       fx="507.24704"
+       fy="-492.27069"
        r="513.5" />
     <mask
        maskUnits="userSpaceOnUse"
-       id="mask45177">
+       id="mask45183">
       <rect
          y="-336.8894"
          x="8.6613483"
          height="500.00003"
          width="1027"
-         id="rect45179"
-         style="opacity:1;fill:url(#radialGradient45181);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         id="rect45185"
+         style="opacity:1;fill:url(#radialGradient45187);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </mask>
   </defs>
   <metadata
@@ -103,12 +103,10 @@
     <g
        id="g208372"
        transform="translate(0,20.000001)"
-       mask="url(#mask45177)"
-       style="opacity:0.864">
+       mask="url(#mask45183)">
       <g
          transform="translate(0,-20.000001)"
-         id="g204210"
-         style="">
+         id="g204210">
         <g
            style="fill:#79db32;stroke:none"
            transform="translate(0,-860.00002)"
