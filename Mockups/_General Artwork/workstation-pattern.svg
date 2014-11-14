@@ -16,7 +16,10 @@
    version="1.1"
    inkscape:version="0.91 r13322 custom"
    viewBox="0 0 1027 500.00001"
-   sodipodi:docname="workstation-pattern.svg">
+   sodipodi:docname="workstation-pattern.svg"
+   inkscape:export-filename="/home/duffy/Repositories/fedora-web/getfedora.org/static/images/workstation/workstation-pattern.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -25,8 +28,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.1798862"
-     inkscape:cx="633.93907"
-     inkscape:cy="437.21841"
+     inkscape:cx="620.37844"
+     inkscape:cy="403.31683"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -56,24 +59,24 @@
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient36819"
-       id="radialGradient45187"
+       id="radialGradient45205"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.6869914,0.0129405,-0.00556616,0.72563432,-354.9328,46.505448)"
-       cx="509.31549"
-       cy="-472.06638"
+       gradientTransform="matrix(0.8883525,0.00327645,-0.00273042,0.74030779,53.165062,58.354347)"
+       cx="507.24704"
+       cy="-492.27069"
        fx="507.24704"
        fy="-492.27069"
        r="513.5" />
     <mask
        maskUnits="userSpaceOnUse"
-       id="mask45183">
+       id="mask45201">
       <rect
          y="-336.8894"
          x="8.6613483"
          height="500.00003"
          width="1027"
-         id="rect45185"
-         style="opacity:1;fill:url(#radialGradient45187);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         id="rect45203"
+         style="opacity:1;fill:url(#radialGradient45205);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </mask>
   </defs>
   <metadata
@@ -102,8 +105,8 @@
        y="-316.8894" />
     <g
        id="g208372"
-       transform="translate(0,20.000001)"
-       mask="url(#mask45183)">
+       mask="url(#mask45201)"
+       transform="translate(0,20)">
       <g
          transform="translate(0,-20.000001)"
          id="g204210">
