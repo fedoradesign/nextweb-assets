@@ -28,7 +28,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1"
      inkscape:cx="381.6614"
-     inkscape:cy="1031.8123"
+     inkscape:cy="151.81234"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -120,16 +120,19 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:27.16099548px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#4c4c4c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="-119.9897"
-       y="261.41159"
+       style="font-style:normal;font-weight:normal;font-size:40.16985703px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#60605b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="100.08299"
+       y="209.07927"
        id="text229414"
-       sodipodi:linespacing="521%"><tspan
+       sodipodi:linespacing="521%"
+       inkscape:export-filename="/home/duffy/Repositories/fedora-web/getfedora.org/static/images/server/server-features-rolekit.png"
+       inkscape:export-xdpi="18.124281"
+       inkscape:export-ydpi="18.124281"><tspan
          sodipodi:role="line"
          id="tspan229416"
-         x="-119.9897"
-         y="261.41159"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.16099548px;line-height:125%;font-family:ChunkFive;-inkscape-font-specification:&quot;ChunkFive, Normal&quot;;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4c4c4c;fill-opacity:1">ROLEKIT</tspan></text>
+         x="100.08299"
+         y="209.07927"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.16985703px;line-height:125%;font-family:ChunkFive;-inkscape-font-specification:'ChunkFive, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#60605b;fill-opacity:1">ROLEKIT</tspan></text>
     <path
        style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path229418"
@@ -156,7 +159,10 @@
    dx="7.9374971 -4.2333336 -2.1166668 -0.79375005 -0.79375005 -0.26458335 -1.5875001">ROLEKIT</tspan></textPath></text>
     <g
        id="g229437"
-       transform="translate(191.29375,-177.00625)">
+       transform="translate(191.29375,-177.00625)"
+       inkscape:export-filename="/home/duffy/Repositories/fedora-web/getfedora.org/static/images/server/server-features-rolekit.png"
+       inkscape:export-xdpi="18.124281"
+       inkscape:export-ydpi="18.124281">
       <path
          d="m 8.8049889,103.39835 a 65.692261,65.692261 0 1 1 -6.931e-4,-0.30176"
          sodipodi:open="true"
@@ -205,7 +211,10 @@
        y="-17.999056"
        x="36.423061"
        style="font-style:normal;font-weight:normal;font-size:57.15044785px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#4c4c4c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
+       xml:space="preserve"
+       inkscape:export-filename="/home/duffy/Repositories/fedora-web/getfedora.org/static/images/server/server-features-rolekit.png"
+       inkscape:export-xdpi="18.124281"
+       inkscape:export-ydpi="18.124281"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:57.15044785px;line-height:125%;font-family:ChunkFive;-inkscape-font-specification:&quot;ChunkFive, Normal&quot;;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4c4c4c;fill-opacity:1"
          y="-17.999056"
          x="36.423061"
@@ -217,11 +226,73 @@
        x="200.46477"
        y="-17.999056"
        id="text229455"
-       sodipodi:linespacing="521%"><tspan
+       sodipodi:linespacing="521%"
+       inkscape:export-filename="/home/duffy/Repositories/fedora-web/getfedora.org/static/images/server/server-features-rolekit.png"
+       inkscape:export-xdpi="18.124281"
+       inkscape:export-ydpi="18.124281"><tspan
          sodipodi:role="line"
          id="tspan229457"
          x="200.46477"
          y="-17.999056"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:57.15044785px;line-height:125%;font-family:ChunkFive;-inkscape-font-specification:&quot;ChunkFive, Normal&quot;;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4c4c4c;fill-opacity:1">LEKIT</tspan></text>
+    <path
+       d="m 259.10081,103.13377 a 65.692261,65.692261 0 1 1 -6.9e-4,-0.30176"
+       sodipodi:open="true"
+       sodipodi:end="6.2785917"
+       sodipodi:start="0"
+       sodipodi:ry="65.692261"
+       sodipodi:rx="65.692261"
+       sodipodi:cy="103.13377"
+       sodipodi:cx="193.40855"
+       sodipodi:type="arc"
+       id="path229461"
+       style="opacity:1;fill:#60605b;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/duffy/Repositories/fedora-web/getfedora.org/static/images/server/server-features-rolekit.png"
+       inkscape:export-xdpi="18.124281"
+       inkscape:export-ydpi="18.124281" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path229463"
+       d="m 163.08582,79.933093 c -6.51196,0.0019 -9.0899,2.468266 -18.42627,2.551266 l 0,6.467303 c 7.93746,0.14706 -1.32263,22.636888 22.42293,22.680788 25.00715,0.0462 18.65706,-22.380448 26.42319,-22.571748 7.76615,0.1913 1.41591,22.617968 26.42318,22.571748 23.74569,-0.0439 14.48541,-22.533728 22.42292,-22.680788 l 0,-6.467303 c -9.33643,-0.08296 -11.91428,-2.549416 -18.42627,-2.551266 -17.12323,-0.0828 -22.53827,4.026276 -30.41983,4.06177 -7.88159,-0.03547 -13.29664,-4.144571 -30.41985,-4.06177 z m 2.9378,2.418459 c 6.76184,0.02533 19.88379,0.622188 19.69338,8.070299 -0.20561,8.042759 -4.77634,18.696599 -18.6154,18.851569 -12.71267,0.14236 -15.26027,-11.48103 -14.8823,-18.851569 0.33073,-6.4492 6.87169,-8.047384 12.54239,-8.069784 0.38842,-0.0015 0.81115,-0.0022 1.26193,-5.15e-4 z m 54.96408,0 c 0.45079,-0.0017 0.87351,-0.001 1.26194,5.15e-4 5.67073,0.02238 12.21164,1.620579 12.54237,8.069784 0.37797,7.370539 -2.16955,18.993919 -14.88228,18.851569 -13.83913,-0.15497 -18.40977,-10.8088 -18.61539,-18.851569 -0.19042,-7.448105 12.93148,-8.044974 19.69336,-8.070299 z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/duffy/Repositories/fedora-web/getfedora.org/static/images/server/server-features-rolekit.png"
+       inkscape:export-xdpi="18.124281"
+       inkscape:export-ydpi="18.124281" />
+    <path
+       sodipodi:nodetypes="ssscscsss"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 193.40578,98.360596 c -5.28154,-0.02877 -9.09971,18.488624 -9.14965,22.380754 -0.0515,4.01443 -8.04364,6.66074 -7.99292,10.61477 0.0511,3.98347 2.53885,5.17248 5.25151,5.32511 2.57901,2.49125 6.98595,5.27165 11.89965,5.27165 4.91368,0 9.05614,-2.68777 11.94632,-5.22487 2.35563,-0.0648 5.29866,-1.38842 5.27352,-5.29838 -0.0259,-4.02754 -7.97148,-6.59731 -8.01501,-10.54332 -0.0446,-4.04859 -3.87337,-22.496624 -9.21342,-22.525714 z"
+       id="path229465"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/duffy/Repositories/fedora-web/getfedora.org/static/images/server/server-features-rolekit.png"
+       inkscape:export-xdpi="18.124281"
+       inkscape:export-ydpi="18.124281" />
+    <path
+       sodipodi:nodetypes="cccccccccccccccsc"
+       inkscape:connector-curvature="0"
+       id="path229467"
+       d="m 180.17281,139.24674 c -1.30962,2.68352 -6.0793,6.29558 -9.13262,5.94169 4.02248,1.19878 8.07507,0.14509 8.07507,0.14509 0.025,2.50046 -1.78729,5.0916 -2.90876,6.4879 3.44817,0.11852 6.66757,-2.28382 7.77693,-4.2569 1.15696,4.48218 -0.26906,6.96924 0.01,8.24163 3.34061,0.27059 5.85313,-6.72288 5.84718,-6.73675 0,0 1.03941,7.66141 4.50525,8.33447 1.08018,-0.81903 2.09393,-8.1933 2.09393,-8.1933 0,0 1.88228,5.3733 5.78034,6.53433 0.0916,-2.69672 0.1831,-7.947 0.1831,-7.947 0,0 4.81641,3.92683 7.77537,3.64613 -2.27942,-3.89698 -1.33518,-6.13726 -1.32882,-6.14489 0,0 4.78004,0.76737 6.99452,-0.0459 -4.82616,-0.61628 -6.6445,-3.24964 -9.11531,-5.95787 0.002,8.9e-4 -5.33094,5.90226 -13.41815,5.85863 -7.86272,-0.0424 -13.13803,-5.90726 -13.13803,-5.90726 z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/duffy/Repositories/fedora-web/getfedora.org/static/images/server/server-features-rolekit.png"
+       inkscape:export-xdpi="18.124281"
+       inkscape:export-ydpi="18.124281" />
+    <path
+       sodipodi:nodetypes="csccccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path229469"
+       d="m 152.51429,78.385662 c 0,0 5.28844,-1.529461 11.72872,-1.433623 8.98006,0.133632 19.88961,2.813861 19.88961,2.813861 0,0 -6.41054,-4.812481 -1.36877,-8.483503 -3.04314,-0.530606 -5.13707,1.853522 -5.13707,1.853522 -2.52961,-1.565163 -2.90752,-3.723826 -2.58689,-5.34112 0,0 -2.74114,1.694992 -2.63993,3.686082 -3.05666,-1.1958 -5.67325,-4.181839 -5.34702,-6.391203 -2.00453,1.796539 -2.53316,5.31263 -2.53316,5.31263 -0.0493,0.131579 -5.55525,-2.879706 -5.26874,-6.748219 -2.54659,2.750976 -1.38024,8.107493 -1.38024,8.107493 -1.71833,-0.07943 -7.2022,-2.283123 -9.30233,-5.425302 -0.0305,2.516134 2.67825,6.681403 2.67825,6.681403 -4.29899,-0.133531 -4.88387,-1.117861 -6.64505,-2.601944 2.06468,4.643374 3.95391,6.639183 7.91262,7.969923 z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/duffy/Repositories/fedora-web/getfedora.org/static/images/server/server-features-rolekit.png"
+       inkscape:export-xdpi="18.124281"
+       inkscape:export-ydpi="18.124281" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 234.23017,78.418735 c 0,0 -5.28848,-1.529461 -11.72878,-1.433623 -8.98011,0.133632 -19.88971,2.813861 -19.88971,2.813861 0,0 6.41057,-4.812481 1.36878,-8.483503 3.04315,-0.530606 5.13709,1.853522 5.13709,1.853522 2.52963,-1.565163 2.90754,-3.723826 2.5869,-5.34112 0,0 2.74115,1.694992 2.63994,3.686082 3.05668,-1.1958 5.67329,-4.181839 5.34705,-6.391203 2.00453,1.796539 2.53318,5.31263 2.53318,5.31263 0.0493,0.131579 5.55528,-2.879706 5.26877,-6.748219 2.54659,2.750976 1.38023,8.107493 1.38023,8.107493 1.71835,-0.07943 7.20224,-2.283123 9.30239,-5.425302 0.0305,2.516134 -2.67827,6.681403 -2.67827,6.681403 4.29902,-0.133531 4.88391,-1.117861 6.64509,-2.601944 -2.06468,4.643374 -3.95393,6.639183 -7.91266,7.969923 z"
+       id="path229471"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccccccccccccc"
+       inkscape:export-filename="/home/duffy/Repositories/fedora-web/getfedora.org/static/images/server/server-features-rolekit.png"
+       inkscape:export-xdpi="18.124281"
+       inkscape:export-ydpi="18.124281" />
   </g>
 </svg>
