@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="496.57141"
+   height="496.57141"
+   viewBox="0 0 131.38452 131.38452"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13322 custom"
+   sodipodi:docname="rolekit_logo.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="381.6614"
+     inkscape:cy="151.81234"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="2560"
+     inkscape:window-height="1397"
+     inkscape:window-x="2560"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="true"
+     inkscape:snap-nodes="true"
+     inkscape:snap-grids="true"
+     inkscape:snap-bbox="false"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4136"
+       originx="-156.70725px"
+       originy="-483.43707px" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="248.29275,321.56293"
+       id="guide5086" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-41.462128,-37.706093)">
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect229608"
+       width="50.535412"
+       height="34.924999"
+       x="151.79338"
+       y="174.38228"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/duffy/Repositories/fedora-web/getfedora.org/static/images/server/server-features-openlmi.png" />
+    <g
+       id="g229429">
+      <path
+         style="opacity:1;fill:#4c4c4c;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path4262"
+         sodipodi:type="arc"
+         sodipodi:cx="-56.887272"
+         sodipodi:cy="103.39835"
+         sodipodi:rx="65.692261"
+         sodipodi:ry="65.692261"
+         sodipodi:start="0"
+         sodipodi:end="6.2785917"
+         sodipodi:open="true"
+         d="m 8.8049889,103.39835 a 65.692261,65.692261 0 1 1 -6.931e-4,-0.30176" />
+      <path
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -87.210006,80.197675 c -6.51196,0.0019 -9.089899,2.468266 -18.426274,2.551266 l 0,6.467303 c 7.937465,0.14706 -1.32263,22.636886 22.422934,22.680786 25.007151,0.0462 18.65706,-22.380446 26.423182,-22.571746 7.766156,0.1913 1.41591,22.617966 26.423184,22.571746 23.7456862,-0.0439 14.485413,-22.533726 22.4229162,-22.680786 l 0,-6.467303 c -9.3364222,-0.08296 -11.9142722,-2.549416 -18.4262692,-2.551266 -17.123228,-0.0828 -22.538265,4.026276 -30.419831,4.06177 -7.881582,-0.03547 -13.296632,-4.144571 -30.419842,-4.06177 z m 2.937799,2.418459 c 6.761841,0.02533 19.883791,0.622188 19.693381,8.070299 -0.20561,8.042759 -4.77634,18.696597 -18.6154,18.851567 -12.712669,0.14236 -15.260269,-11.481028 -14.882299,-18.851567 0.33073,-6.4492 6.871689,-8.047384 12.542389,-8.069784 0.388419,-0.0015 0.811149,-0.0022 1.261929,-5.15e-4 z m 54.964077,0 c 0.45079,-0.0017 0.87351,-0.001 1.26194,5.15e-4 5.670726,0.02238 12.211643,1.620579 12.542373,8.069784 0.377971,7.370539 -2.169549,18.993917 -14.882283,18.851567 -13.839131,-0.15497 -18.409768,-10.808798 -18.615388,-18.851567 -0.19042,-7.448105 12.931481,-8.044974 19.693358,-8.070299 z"
+         id="path4279"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4281"
+         d="m -56.890054,98.625178 c -5.281537,-0.02877 -9.099709,18.488622 -9.149642,22.380752 -0.0515,4.01443 -8.043649,6.66074 -7.99292,10.61477 0.05111,3.98347 2.538847,5.17248 5.251507,5.32511 2.57901,2.49125 6.985948,5.27165 11.899645,5.27165 4.913686,0 9.056143,-2.68777 11.946323,-5.22487 2.355636,-0.0648 5.298657,-1.38842 5.273517,-5.29838 -0.0259,-4.02754 -7.971477,-6.59731 -8.015007,-10.54332 -0.0446,-4.04859 -3.873367,-22.496622 -9.213423,-22.525712 z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         sodipodi:nodetypes="ssscscsss" />
+      <path
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -70.123017,139.51132 c -1.309621,2.68352 -6.079303,6.29558 -9.132624,5.94169 4.022481,1.19878 8.075071,0.14509 8.075071,0.14509 0.025,2.50046 -1.78729,5.0916 -2.908761,6.4879 3.448171,0.11852 6.667571,-2.28382 7.776931,-4.2569 1.15696,4.48218 -0.26906,6.96924 0.01,8.24163 3.340608,0.27059 5.853129,-6.72288 5.847179,-6.73675 0,0 1.03941,7.66141 4.505247,8.33447 1.08018,-0.81903 2.09393,-8.1933 2.09393,-8.1933 0,0 1.882286,5.3733 5.780343,6.53433 0.0916,-2.69672 0.1831,-7.947 0.1831,-7.947 0,0 4.81641,3.92683 7.775367,3.64613 -2.279421,-3.89698 -1.33518,-6.13726 -1.32882,-6.14489 0,0 4.780046,0.76737 6.994527,-0.0459 -4.826167,-0.61628 -6.644507,-3.24964 -9.115314,-5.95787 0.002,8.9e-4 -5.330937,5.90226 -13.418153,5.85863 -7.862721,-0.0424 -13.138023,-5.90726 -13.138023,-5.90726 z"
+         id="path4283"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccccccccccsc" />
+      <path
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -97.781543,78.650244 c 0,0 5.288439,-1.529461 11.728719,-1.433623 8.98006,0.133632 19.88961,2.813861 19.88961,2.813861 0,0 -6.41054,-4.812481 -1.36877,-8.483503 -3.04314,-0.530606 -5.13707,1.853522 -5.13707,1.853522 -2.52961,-1.565163 -2.90752,-3.723826 -2.58689,-5.34112 0,0 -2.74114,1.694992 -2.63993,3.686082 -3.05666,-1.1958 -5.67325,-4.181839 -5.34702,-6.391203 -2.004521,1.796539 -2.53316,5.31263 -2.53316,5.31263 -0.0493,0.131579 -5.55525,-2.879706 -5.26874,-6.748219 -2.54659,2.750976 -1.38024,8.107493 -1.38024,8.107493 -1.71833,-0.07943 -7.202199,-2.283123 -9.302326,-5.425302 -0.0305,2.516134 2.678247,6.681403 2.678247,6.681403 -4.298987,-0.133531 -4.883867,-1.117861 -6.645047,-2.601944 2.06468,4.643374 3.95391,6.639183 7.912617,7.969923 z"
+         id="path4285"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="csccccccccccccc" />
+      <path
+         sodipodi:nodetypes="csccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path4287"
+         d="m -16.065657,78.683317 c 0,0 -5.288479,-1.529461 -11.728783,-1.433623 -8.980108,0.133632 -19.889711,2.813861 -19.889711,2.813861 0,0 6.410567,-4.812481 1.36878,-8.483503 3.04315,-0.530606 5.137087,1.853522 5.137087,1.853522 2.52963,-1.565163 2.90754,-3.723826 2.5869,-5.34112 0,0 2.741157,1.694992 2.639947,3.686082 3.05668,-1.1958 5.673287,-4.181839 5.347047,-6.391203 2.00453,1.796539 2.53318,5.31263 2.53318,5.31263 0.0493,0.131579 5.555276,-2.879706 5.268766,-6.748219 2.546598,2.750976 1.380238,8.107493 1.380238,8.107493 1.71835,-0.07943 7.20224,-2.283123 9.30239,-5.425302 0.0305,2.516134 -2.67827,6.681403 -2.67827,6.681403 4.299012,-0.133531 4.8839022,-1.117861 6.6450822,-2.601944 -2.0646802,4.643374 -3.9539222,6.639183 -7.9126532,7.969923 z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.11614704px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#60605b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="100.88434"
+       y="209.65623"
+       id="text229414"
+       sodipodi:linespacing="521%"
+       inkscape:export-filename="/home/duffy/Repositories/fedora-web/getfedora.org/static/images/server/server-features-rolekit.png"
+       inkscape:export-xdpi="18.124281"
+       inkscape:export-ydpi="18.124281"><tspan
+         sodipodi:role="line"
+         id="tspan229416"
+         x="100.88434"
+         y="209.65623"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.11614704px;line-height:125%;font-family:ChunkFive;-inkscape-font-specification:&quot;ChunkFive, Normal&quot;;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#60605b;fill-opacity:1">ROLEKIT</tspan></text>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path229418"
+       sodipodi:type="arc"
+       sodipodi:cx="-50.510349"
+       sodipodi:cy="-106.66298"
+       sodipodi:rx="109.08392"
+       sodipodi:ry="109.08392"
+       sodipodi:start="0"
+       sodipodi:end="6.2785917"
+       sodipodi:open="true"
+       d="m 58.573574,-106.66298 a 109.08392,109.08392 0 1 1 -0.0012,-0.50109"
+       transform="matrix(-0.58554516,-0.81063979,0.81063979,-0.58554516,0,0)" />
+    <text
+       sodipodi:linespacing="521%"
+       id="text229420"
+       style="font-style:normal;font-weight:normal;font-size:27.16099548px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#4c4c4c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       transform="matrix(1.412805,0,0,1.412805,23.644936,41.477251)"><textPath
+         xlink:href="#path229418"
+         id="textPath229424"><tspan
+   id="tspan229422"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.16099548px;line-height:125%;font-family:ChunkFive;-inkscape-font-specification:&quot;ChunkFive, Normal&quot;;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4c4c4c;fill-opacity:1"
+   dx="7.9374971 -4.2333336 -2.1166668 -0.79375005 -0.79375005 -0.26458335 -1.5875001">ROLEKIT</tspan></textPath></text>
+    <g
+       id="g229437"
+       transform="translate(191.29375,-177.00625)"
+       inkscape:export-filename="/home/duffy/Repositories/fedora-web/getfedora.org/static/images/server/server-features-rolekit.png"
+       inkscape:export-xdpi="18.124281"
+       inkscape:export-ydpi="18.124281">
+      <path
+         d="m 8.8049889,103.39835 a 65.692261,65.692261 0 1 1 -6.931e-4,-0.30176"
+         sodipodi:open="true"
+         sodipodi:end="6.2785917"
+         sodipodi:start="0"
+         sodipodi:ry="65.692261"
+         sodipodi:rx="65.692261"
+         sodipodi:cy="103.39835"
+         sodipodi:cx="-56.887272"
+         sodipodi:type="arc"
+         id="path229439"
+         style="opacity:1;fill:#4c4c4c;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path229441"
+         d="m -87.210006,80.197675 c -6.51196,0.0019 -9.089899,2.468266 -18.426274,2.551266 l 0,6.467303 c 7.937465,0.14706 -1.32263,22.636886 22.422934,22.680786 25.007151,0.0462 18.65706,-22.380446 26.423182,-22.571746 7.766156,0.1913 1.41591,22.617966 26.423184,22.571746 23.7456862,-0.0439 14.485413,-22.533726 22.4229162,-22.680786 l 0,-6.467303 c -9.3364222,-0.08296 -11.9142722,-2.549416 -18.4262692,-2.551266 -17.123228,-0.0828 -22.538265,4.026276 -30.419831,4.06177 -7.881582,-0.03547 -13.296632,-4.144571 -30.419842,-4.06177 z m 2.937799,2.418459 c 6.761841,0.02533 19.883791,0.622188 19.693381,8.070299 -0.20561,8.042759 -4.77634,18.696597 -18.6154,18.851567 -12.712669,0.14236 -15.260269,-11.481028 -14.882299,-18.851567 0.33073,-6.4492 6.871689,-8.047384 12.542389,-8.069784 0.388419,-0.0015 0.811149,-0.0022 1.261929,-5.15e-4 z m 54.964077,0 c 0.45079,-0.0017 0.87351,-0.001 1.26194,5.15e-4 5.670726,0.02238 12.211643,1.620579 12.542373,8.069784 0.377971,7.370539 -2.169549,18.993917 -14.882283,18.851567 -13.839131,-0.15497 -18.409768,-10.808798 -18.615388,-18.851567 -0.19042,-7.448105 12.931481,-8.044974 19.693358,-8.070299 z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ssscscsss"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -56.890054,98.625178 c -5.281537,-0.02877 -9.099709,18.488622 -9.149642,22.380752 -0.0515,4.01443 -8.043649,6.66074 -7.99292,10.61477 0.05111,3.98347 2.538847,5.17248 5.251507,5.32511 2.57901,2.49125 6.985948,5.27165 11.899645,5.27165 4.913686,0 9.056143,-2.68777 11.946323,-5.22487 2.355636,-0.0648 5.298657,-1.38842 5.273517,-5.29838 -0.0259,-4.02754 -7.971477,-6.59731 -8.015007,-10.54332 -0.0446,-4.04859 -3.873367,-22.496622 -9.213423,-22.525712 z"
+         id="path229443"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:nodetypes="cccccccccccccccsc"
+         inkscape:connector-curvature="0"
+         id="path229445"
+         d="m -70.123017,139.51132 c -1.309621,2.68352 -6.079303,6.29558 -9.132624,5.94169 4.022481,1.19878 8.075071,0.14509 8.075071,0.14509 0.025,2.50046 -1.78729,5.0916 -2.908761,6.4879 3.448171,0.11852 6.667571,-2.28382 7.776931,-4.2569 1.15696,4.48218 -0.26906,6.96924 0.01,8.24163 3.340608,0.27059 5.853129,-6.72288 5.847179,-6.73675 0,0 1.03941,7.66141 4.505247,8.33447 1.08018,-0.81903 2.09393,-8.1933 2.09393,-8.1933 0,0 1.882286,5.3733 5.780343,6.53433 0.0916,-2.69672 0.1831,-7.947 0.1831,-7.947 0,0 4.81641,3.92683 7.775367,3.64613 -2.279421,-3.89698 -1.33518,-6.13726 -1.32882,-6.14489 0,0 4.780046,0.76737 6.994527,-0.0459 -4.826167,-0.61628 -6.644507,-3.24964 -9.115314,-5.95787 0.002,8.9e-4 -5.330937,5.90226 -13.418153,5.85863 -7.862721,-0.0424 -13.138023,-5.90726 -13.138023,-5.90726 z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="csccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path229447"
+         d="m -97.781543,78.650244 c 0,0 5.288439,-1.529461 11.728719,-1.433623 8.98006,0.133632 19.88961,2.813861 19.88961,2.813861 0,0 -6.41054,-4.812481 -1.36877,-8.483503 -3.04314,-0.530606 -5.13707,1.853522 -5.13707,1.853522 -2.52961,-1.565163 -2.90752,-3.723826 -2.58689,-5.34112 0,0 -2.74114,1.694992 -2.63993,3.686082 -3.05666,-1.1958 -5.67325,-4.181839 -5.34702,-6.391203 -2.004521,1.796539 -2.53316,5.31263 -2.53316,5.31263 -0.0493,0.131579 -5.55525,-2.879706 -5.26874,-6.748219 -2.54659,2.750976 -1.38024,8.107493 -1.38024,8.107493 -1.71833,-0.07943 -7.202199,-2.283123 -9.302326,-5.425302 -0.0305,2.516134 2.678247,6.681403 2.678247,6.681403 -4.298987,-0.133531 -4.883867,-1.117861 -6.645047,-2.601944 2.06468,4.643374 3.95391,6.639183 7.912617,7.969923 z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -16.065657,78.683317 c 0,0 -5.288479,-1.529461 -11.728783,-1.433623 -8.980108,0.133632 -19.889711,2.813861 -19.889711,2.813861 0,0 6.410567,-4.812481 1.36878,-8.483503 3.04315,-0.530606 5.137087,1.853522 5.137087,1.853522 2.52963,-1.565163 2.90754,-3.723826 2.5869,-5.34112 0,0 2.741157,1.694992 2.639947,3.686082 3.05668,-1.1958 5.673287,-4.181839 5.347047,-6.391203 2.00453,1.796539 2.53318,5.31263 2.53318,5.31263 0.0493,0.131579 5.555276,-2.879706 5.268766,-6.748219 2.546598,2.750976 1.380238,8.107493 1.380238,8.107493 1.71835,-0.07943 7.20224,-2.283123 9.30239,-5.425302 0.0305,2.516134 -2.67827,6.681403 -2.67827,6.681403 4.299012,-0.133531 4.8839022,-1.117861 6.6450822,-2.601944 -2.0646802,4.643374 -3.9539222,6.639183 -7.9126532,7.969923 z"
+         id="path229449"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="csccccccccccccc" />
+    </g>
+    <text
+       sodipodi:linespacing="521%"
+       id="text229451"
+       y="-17.999056"
+       x="36.423061"
+       style="font-style:normal;font-weight:normal;font-size:57.15044785px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#4c4c4c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-filename="/home/duffy/Repositories/fedora-web/getfedora.org/static/images/server/server-features-rolekit.png"
+       inkscape:export-xdpi="18.124281"
+       inkscape:export-ydpi="18.124281"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:57.15044785px;line-height:125%;font-family:ChunkFive;-inkscape-font-specification:&quot;ChunkFive, Normal&quot;;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4c4c4c;fill-opacity:1"
+         y="-17.999056"
+         x="36.423061"
+         id="tspan229453"
+         sodipodi:role="line">R</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:57.15044785px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#4c4c4c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="200.46477"
+       y="-17.999056"
+       id="text229455"
+       sodipodi:linespacing="521%"
+       inkscape:export-filename="/home/duffy/Repositories/fedora-web/getfedora.org/static/images/server/server-features-rolekit.png"
+       inkscape:export-xdpi="18.124281"
+       inkscape:export-ydpi="18.124281"><tspan
+         sodipodi:role="line"
+         id="tspan229457"
+         x="200.46477"
+         y="-17.999056"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:57.15044785px;line-height:125%;font-family:ChunkFive;-inkscape-font-specification:&quot;ChunkFive, Normal&quot;;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4c4c4c;fill-opacity:1">LEKIT</tspan></text>
+    <path
+       d="m 133.0132,188.25041 a 13.272839,13.272839 0 1 1 -1.4e-4,-0.061"
+       sodipodi:open="true"
+       sodipodi:end="6.2785917"
+       sodipodi:start="0"
+       sodipodi:ry="13.272839"
+       sodipodi:rx="13.272839"
+       sodipodi:cy="188.25041"
+       sodipodi:cx="119.74036"
+       sodipodi:type="arc"
+       id="path229461"
+       style="opacity:1;fill:#60605b;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/duffy/Repositories/fedora-web/getfedora.org/static/images/server/server-features-rolekit.png"
+       inkscape:export-xdpi="18.124281"
+       inkscape:export-ydpi="18.124281" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path229463"
+       d="m 113.61379,183.56281 c -1.31572,2.8e-4 -1.83658,0.4987 -3.72295,0.51547 l 0,1.30669 c 1.60373,0.0297 -0.26723,4.57369 4.53046,4.58256 5.05258,0.009 3.76958,-4.52188 5.33869,-4.56053 1.56912,0.0386 0.28608,4.56987 5.33869,4.56053 4.79771,-0.009 2.92671,-4.55285 4.53045,-4.58256 l 0,-1.30669 c -1.88638,-0.0168 -2.40723,-0.5151 -3.72295,-0.51547 -3.45967,-0.0167 -4.55376,0.81349 -6.14619,0.82066 -1.59244,-0.007 -2.68653,-0.83739 -6.1462,-0.82066 z m 0.59357,0.48864 c 1.3662,0.005 4.01743,0.12571 3.97896,1.63057 -0.0415,1.625 -0.96504,3.77756 -3.76116,3.80887 -2.56854,0.0288 -3.08327,-2.31969 -3.0069,-3.80887 0.0668,-1.30304 1.38839,-1.62594 2.53413,-1.63047 0.0785,-2.8e-4 0.16389,-5.6e-4 0.25497,-1e-4 z m 11.10525,0 c 0.0911,-2.9e-4 0.17649,-2e-4 0.25497,1e-4 1.14575,0.005 2.46731,0.32743 2.53414,1.63047 0.0764,1.48918 -0.43835,3.83763 -3.0069,3.80887 -2.79614,-0.0313 -3.71962,-2.18387 -3.76116,-3.80887 -0.0385,-1.50486 2.61275,-1.62546 3.97895,-1.63057 z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.77952743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/duffy/Repositories/fedora-web/getfedora.org/static/images/server/server-features-rolekit.png"
+       inkscape:export-xdpi="18.124281"
+       inkscape:export-ydpi="18.124281" />
+    <path
+       sodipodi:nodetypes="ssscscsss"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 119.73981,187.28601 c -1.06712,-0.006 -1.83856,3.73554 -1.84865,4.52193 -0.0104,0.8111 -1.62518,1.34577 -1.61494,2.14467 0.0103,0.80484 0.51297,1.04508 1.06105,1.07591 0.52108,0.50335 1.41148,1.06512 2.40427,1.06512 0.99279,0 1.82976,-0.54305 2.41371,-1.05566 0.47594,-0.0131 1.07057,-0.28053 1.06549,-1.07052 -0.005,-0.81375 -1.61061,-1.33296 -1.6194,-2.13023 -0.009,-0.818 -0.7826,-4.54535 -1.86153,-4.55122 z"
+       id="path229465"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/duffy/Repositories/fedora-web/getfedora.org/static/images/server/server-features-rolekit.png"
+       inkscape:export-xdpi="18.124281"
+       inkscape:export-ydpi="18.124281" />
+    <path
+       sodipodi:nodetypes="cccccccccccccccsc"
+       inkscape:connector-curvature="0"
+       id="path229467"
+       d="m 117.06614,195.54687 c -0.2646,0.5422 -1.2283,1.272 -1.84521,1.2005 0.81273,0.24221 1.63154,0.0293 1.63154,0.0293 0.005,0.50521 -0.36111,1.02874 -0.58771,1.31085 0.69669,0.024 1.34716,-0.46143 1.5713,-0.86008 0.23376,0.9056 -0.0544,1.4081 0.002,1.66518 0.67496,0.0547 1.1826,-1.35833 1.1814,-1.36113 0,0 0.21,1.54796 0.91026,1.68394 0.21825,-0.16548 0.42307,-1.65542 0.42307,-1.65542 0,0 0.38031,1.08566 1.1679,1.32024 0.0185,-0.54486 0.037,-1.60566 0.037,-1.60566 0,0 0.97314,0.7934 1.57098,0.73668 -0.46055,-0.78736 -0.26977,-1.24 -0.26848,-1.24154 0,0 0.96578,0.15504 1.41321,-0.009 -0.97511,-0.12451 -1.34249,-0.65657 -1.84171,-1.20376 2.8e-4,1.8e-4 -1.07709,1.19253 -2.71108,1.18371 -1.58863,-0.009 -2.65448,-1.19353 -2.65448,-1.19353 z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/duffy/Repositories/fedora-web/getfedora.org/static/images/server/server-features-rolekit.png"
+       inkscape:export-xdpi="18.124281"
+       inkscape:export-ydpi="18.124281" />
+    <path
+       sodipodi:nodetypes="csccccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path229469"
+       d="m 111.47786,183.25015 c 0,0 1.0685,-0.30901 2.36973,-0.28965 1.81439,0.027 4.01861,0.56853 4.01861,0.56853 0,0 -1.29522,-0.97234 -0.27655,-1.71406 -0.61485,-0.1072 -1.03792,0.3745 -1.03792,0.3745 -0.5111,-0.31624 -0.58746,-0.75239 -0.52267,-1.07915 0,0 -0.55384,0.34246 -0.53339,0.74475 -0.61758,-0.2416 -1.14625,-0.84492 -1.08034,-1.29131 -0.40501,0.36298 -0.51182,1.07339 -0.51182,1.07339 -0.01,0.0266 -1.12241,-0.58183 -1.06452,-1.36345 -0.51453,0.55583 -0.27887,1.63809 -0.27887,1.63809 -0.34719,-0.0161 -1.45518,-0.4613 -1.8795,-1.09616 -0.006,0.50837 0.54113,1.34995 0.54113,1.34995 -0.86859,-0.027 -0.98676,-0.22586 -1.3426,-0.52571 0.41716,0.93817 0.79887,1.34141 1.59871,1.61028 z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/duffy/Repositories/fedora-web/getfedora.org/static/images/server/server-features-rolekit.png"
+       inkscape:export-xdpi="18.124281"
+       inkscape:export-ydpi="18.124281" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 127.9882,183.25684 c 0,0 -1.06852,-0.30902 -2.36975,-0.28966 -1.81439,0.027 -4.01863,0.56853 -4.01863,0.56853 0,0 1.29523,-0.97234 0.27656,-1.71406 0.61485,-0.1072 1.03792,0.3745 1.03792,0.3745 0.5111,-0.31623 0.58746,-0.75238 0.52267,-1.07915 0,0 0.55384,0.34247 0.53339,0.74476 0.61759,-0.24161 1.14627,-0.84493 1.08035,-1.29132 0.40501,0.36298 0.51182,1.0734 0.51182,1.0734 0.01,0.0266 1.12242,-0.58184 1.06453,-1.36345 0.51453,0.55582 0.27887,1.63808 0.27887,1.63808 0.34719,-0.0161 1.45518,-0.4613 1.87951,-1.09616 0.006,0.50838 -0.54113,1.34995 -0.54113,1.34995 0.86859,-0.027 0.98677,-0.22586 1.34261,-0.52571 -0.41716,0.93817 -0.79888,1.34142 -1.59872,1.61029 z"
+       id="path229471"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccccccccccccc"
+       inkscape:export-filename="/home/duffy/Repositories/fedora-web/getfedora.org/static/images/server/server-features-rolekit.png"
+       inkscape:export-xdpi="18.124281"
+       inkscape:export-ydpi="18.124281" />
+    <g
+       transform="matrix(0.26458333,0,0,0.26458333,36.881161,10.783554)"
+       id="g4287"
+       style="fill:#60605b"
+       inkscape:export-filename="/home/duffy/Repositories/fedora-web/getfedora.org/static/images/server/server-features-openlmi.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:180px;line-height:125%;font-family:Maven Pro;-inkscape-font-specification:Maven Pro Heavy;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#60605b;fill-opacity:1;stroke:none"
+         d="m 459.33971,666.83624 0,0.5857 6.31046,7.0291 2.07686,0.053 2.07686,-0.053 6.6566,-7.4018 0.13313,0.1331 0,-0.3461 -17.25391,0 z m 17.25391,1.3579 -6.2572,6.9492 -0.13313,0.1331 -0.18639,0.027 -1.86385,0.053 0,10.4105 -0.85204,0 0,-10.4105 -1.86385,-0.053 -0.18638,-0.027 -0.13314,-0.1331 -5.77793,-6.4167 0,26.4123 3.67445,0 0.63903,0 0.18639,0.5857 1.99698,6.1238 2.10348,0 2.07686,0 1.99698,-6.1238 0.21301,-0.5857 0.61241,0 3.75432,0 0,-26.9448 z"
+         id="path8447"
+         inkscape:connector-curvature="0" />
+      <path
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:180px;line-height:125%;font-family:Maven Pro;-inkscape-font-specification:Maven Pro Heavy;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#60605b;fill-opacity:1;stroke:none"
+         d="m 459.33971,697.45534 0,7.8278 8.68021,9.3455 -0.0266,0.027 0.15975,0 0,10.9962 -0.26626,0 0.13313,0.1332 -7.96129,8.5733 21.16799,0 0,-2.556 -5.43179,-1.8105 -0.58578,-0.1864 0,-0.6124 0,-2.4761 0,-2.4762 0,-0.6124 0.58578,-0.1864 5.43179,-1.8105 0,-2.7956 -4.633,0 0,-21.3801 -3.14191,0 -1.99698,6.1238 -0.18639,0.5857 -0.6124,0 -2.7159,0 -2.74252,0 -0.6124,0 -0.18639,-0.5857 -1.99698,-6.1238 -3.06206,-4e-4 z m 0,9.0792 0,27.3175 7.9613,-8.5467 0,-10.1975 -7.9613,-8.5733 z"
+         id="path8449"
+         inkscape:connector-curvature="0" />
+      <path
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:180px;line-height:125%;font-family:Maven Pro;-inkscape-font-specification:Maven Pro Heavy;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#60605b;fill-opacity:1;stroke:none"
+         d="m 484.1289,718.83544 0,3.408 0,0.6124 -0.55916,0.213 -5.45841,1.7839 0,1.8638 0,1.8371 5.45841,1.8105 0.55916,0.1864 0,0.6124 0,3.195 22.71232,0 -5.67143,-5.0854 -0.13313,-0.1331 0,-0.1864 -0.0532,-1.8638 -10.41092,0 0,-0.852 10.41092,0 0.0532,-1.8637 0,-0.1864 0.13313,-0.1332 5.80456,-5.2185 -22.84545,0 z m 23.4046,0.639 -5.64479,5.0854 -0.0799,2.1034 0.0799,2.1034 5.64479,5.0854 0,-14.3776 z"
+         id="path8451"
+         inkscape:connector-curvature="0" />
+      <path
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:180px;line-height:125%;font-family:Maven Pro;-inkscape-font-specification:Maven Pro Heavy;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#60605b;fill-opacity:1;stroke:none"
+         d="m 510.03639,666.83624 5.85781,6.4966 2.07685,0.053 0.0266,0 2.05023,-0.053 5.85781,-6.4966 -15.8693,0 z m 48.35354,0 5.85781,6.4966 2.07686,0.053 2.07686,-0.053 5.85781,-6.4966 -15.86934,0 z m -31.63216,0.3461 -6.17733,6.8427 -0.13313,0.1598 -0.18638,0 -1.86385,0.053 0,10.4105 -0.85205,0 0,-10.4105 -1.86385,-0.053 -0.18638,0 -0.13313,-0.1598 -5.80456,-6.4433 0,33.1485 3.43481,0 0.6124,0 0.18639,0.5857 1.99698,6.0972 2.10349,0 2.10348,0 1.99698,-6.0972 0.18639,-0.5857 0.6124,0 4.02059,0 0,-8.4136 15.46994,22.1789 15.44331,-22.1789 0,8.4136 3.46144,0 0.63903,0 0.18639,0.5857 1.99698,6.0972 2.10348,0 2.07686,0 1.99698,-6.0972 0.21301,-0.5857 0.61241,0 3.99396,0 0,-33.4414 -6.07082,6.7362 -0.13313,0.1598 -0.18639,0 -1.86384,0.053 0,10.4105 -0.85205,0 0,-10.4105 -1.86385,-0.053 -0.18638,0 -0.13313,-0.1598 -6.0442,-6.7096 -15.01729,21.7795 0,10.0378 -0.85204,0 0,-10.1975 -15.04392,-21.7529 z"
+         id="path8453"
+         inkscape:connector-curvature="0" />
+      <path
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:180px;line-height:125%;font-family:Maven Pro;-inkscape-font-specification:Maven Pro Heavy;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#60605b;fill-opacity:1;stroke:none"
+         d="m 509.55711,703.04664 0,30.6989 5.80456,-6.4699 0.13313,-0.1331 0.18638,0 1.86385,-0.053 0,-10.4371 0.85205,0 0,10.4371 1.86385,0.053 0.18638,0 0.13313,0.1331 6.23058,6.9492 0,-31.1782 -3.38155,0 -1.99698,6.0972 -0.21301,0.5857 -0.61241,0 -2.71589,0 -2.7159,0 -0.61241,0 -0.21301,-0.5857 -1.99698,-6.0972 -2.79577,0 z m 8.41394,24.868 -2.10348,0.08 -5.72468,6.3634 15.65633,0 -5.72468,-6.3634 -2.07686,-0.08 -0.0266,0 z"
+         id="path8455"
+         inkscape:connector-curvature="0" />
+      <path
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:180px;line-height:125%;font-family:Maven Pro;-inkscape-font-specification:Maven Pro Heavy;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#60605b;fill-opacity:1;stroke:none"
+         d="m 557.72427,703.04664 0,30.9119 5.99095,-6.6829 0.13313,-0.1331 0.18638,0 1.86385,-0.053 0,-10.4371 0.85205,0 0,10.4371 1.86384,0.053 0.18639,0 0.13313,0.1331 6.07082,6.7628 0,-30.9918 -3.38155,0 -1.99698,6.0972 -0.18639,0.5857 -0.61241,0 -2.71589,0 -2.74252,0 -0.61241,0 -0.18638,-0.5857 -1.99698,-6.0972 -2.84903,0 z m 8.60033,24.868 -2.10348,0.08 -5.72468,6.3634 15.65633,0 -5.72468,-6.3634 -2.10349,-0.08 z"
+         id="path8457"
+         inkscape:connector-curvature="0" />
+      <path
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:180px;line-height:125%;font-family:Maven Pro;-inkscape-font-specification:Maven Pro Heavy;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#60605b;fill-opacity:1;stroke:none"
+         d="m 582.54008,666.83624 6.07082,6.7628 2.07686,0.08 0.0266,0 2.10348,-0.08 6.07082,-6.7628 -16.34858,0 z m -0.47927,0.7455 0,27.5572 3.64781,0 0.63904,0 0.18638,0.5857 1.99698,6.1238 2.10349,0 2.07686,0 1.99698,-6.1238 0.21301,-0.5857 0.61241,0 3.75432,0 0,-27.504 -5.99094,6.683 -0.10651,0.1331 -0.18638,0 -1.86385,0.053 0,10.4371 -0.85204,0 0,-10.4371 -1.89048,-0.053 -0.15976,0 -0.13313,-0.1331 -6.04419,-6.7362 z"
+         id="path8459"
+         inkscape:connector-curvature="0" />
+      <path
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:180px;line-height:125%;font-family:Maven Pro;-inkscape-font-specification:Maven Pro Heavy;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#60605b;fill-opacity:1;stroke:none"
+         d="m 582.06081,697.45534 0,35.9974 6.04419,-6.7362 0.13313,-0.1332 0.15976,0 1.89048,-0.053 0,-10.4105 0.85204,0 0,10.4105 1.86385,0.053 0.18638,0 0.10651,0.1332 5.99094,6.6829 0,-35.9441 -3.14192,0 -1.99698,6.1238 -0.18638,0.5858 -0.61241,0 -2.71589,0 -2.74252,0 -0.61241,0 -0.18638,-0.5858 -1.99698,-6.1238 -3.03541,0 z m 8.62695,29.9002 -2.07686,0.08 -6.23058,6.9225 16.66813,0 -6.23058,-6.9225 -2.10348,-0.08 -0.0266,0 z"
+         id="path8461"
+         inkscape:connector-curvature="0" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.07847404px;line-height:125%;font-family:TitilliumText14L;-inkscape-font-specification:TitilliumText14L;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#60605b;fill-opacity:1;stroke:none"
+         x="458.35065"
+         y="656.85345"
+         id="text8463"
+         sodipodi:linespacing="125%"
+         transform="scale(1.0000208,0.99997921)"><tspan
+           sodipodi:role="line"
+           id="tspan8465"
+           x="458.35065"
+           y="656.85345"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:expanded;font-size:30.07847404px;line-height:125%;font-family:Syncopate;-inkscape-font-specification:Syncopate Light Expanded;text-align:start;letter-spacing:12.76310635;writing-mode:lr-tb;text-anchor:start;fill:#60605b;fill-opacity:1">OPEN</tspan></text>
+    </g>
+  </g>
+</svg>
