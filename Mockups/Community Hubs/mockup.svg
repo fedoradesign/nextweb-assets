@@ -24,7 +24,7 @@
        xlink:href="#linearGradient9167"
        id="linearGradient106969"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.11873984,0,0,1.6168981,74.731238,389.93587)"
+       gradientTransform="matrix(0.11873984,0,0,1.26902,74.731238,338.57591)"
        x1="368"
        y1="-119.48139"
        x2="368"
@@ -41,19 +41,6 @@
          offset="1"
          id="stop9171" />
     </linearGradient>
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter14907"
-       x="-0.02829913"
-       width="1.0565983"
-       y="-0.029318919"
-       height="1.0586378">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="5.424"
-         id="feGaussianBlur14909" />
-    </filter>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath25577">
@@ -166,6 +153,19 @@
        y1="-119.48139"
        x2="368"
        y2="-292.65454" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter15487"
+       x="-0.03802826"
+       width="1.0760565"
+       y="-0.046898124"
+       height="1.0937962">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.9284817"
+         id="feGaussianBlur15489" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -176,7 +176,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1"
      inkscape:cx="614.28571"
-     inkscape:cy="-291.71755"
+     inkscape:cy="268.28245"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -207,6 +207,11 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-69.050217)">
+    <path
+       inkscape:connector-curvature="0"
+       id="path15432"
+       d="m 1.89336,359.25164 0,16.93334 0,2.11667 0,7.40833 270.93332,0 0,-7.40833 0,-2.11667 0,-16.93334 -270.93332,0 z"
+       style="display:inline;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:0.26458332" />
     <rect
        style="display:inline;fill:#d1d3d4;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        id="rect3683"
@@ -219,16 +224,15 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
-       style="display:inline;fill:#60605b;fill-opacity:1;stroke:none;stroke-width:0.99999994;filter:url(#filter14907);opacity:0.17"
-       d="m 282,196.56445 0,114 0,330 460,0 0,-330 0,-114 -460,0 z"
-       transform="matrix(0.26458333,0,0,0.26458333,0.52916666,69.579384)"
-       id="rect14822"
+       style="display:inline;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:0.26458329;filter:url(#filter15487);opacity:0.652"
+       d="m 75.141666,121.58706 0,30.1625 0,68.52708 121.708334,0 0,-68.52708 0,-30.1625 -121.708334,0 z"
+       id="rect15454"
        inkscape:connector-curvature="0" />
     <rect
-       style="display:inline;fill:url(#linearGradient106969);fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="display:inline;fill:url(#linearGradient106969);fill-opacity:1;stroke:none;stroke-width:0.26458329"
        id="rect9546"
        width="121.70834"
-       height="87.3125"
+       height="68.527084"
        x="74.612503"
        y="151.2206"
        inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
@@ -261,18 +265,18 @@
          sodipodi:role="line">Fedora Account System Username</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.66783094px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#c3c4c6;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
-       x="120.10639"
-       y="234.14946"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.66783094px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#7e8085;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       x="160.32312"
+       y="227.27023"
        id="text14011"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
-         x="120.10639"
-         y="234.14946"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#c3c4c6;fill-opacity:1;stroke-width:0.26458332;"
+         x="160.32312"
+         y="227.27023"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#7e8085;fill-opacity:1;stroke-width:0.26458332;"
          id="tspan14013">Need an account?</tspan></text>
     <rect
        y="180.07489"
@@ -305,14 +309,14 @@
        inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
        sodipodi:linespacing="125%"
        id="text14021"
-       y="209.80779"
-       x="84.916817"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.66783094px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#c3c4c6;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       y="227.00569"
+       x="77.243896"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.66783094px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#7e8085;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        xml:space="preserve"><tspan
          id="tspan14023"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#c3c4c6;fill-opacity:1;stroke-width:0.26458332;"
-         y="209.80779"
-         x="84.916817"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#7e8085;fill-opacity:1;stroke-width:0.26458332;"
+         y="227.00569"
+         x="77.243896"
          sodipodi:role="line">Forget password?</tspan></text>
     <rect
        transform="scale(-1)"
@@ -321,7 +325,7 @@
        width="34.395832"
        height="8.9958334"
        x="-188.64792"
-       y="-211.28101"
+       y="-211.81017"
        ry="1.3229166"
        rx="1.7447162"
        inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
@@ -333,13 +337,13 @@
        inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
        sodipodi:linespacing="125%"
        id="text14109"
-       y="208.48488"
+       y="209.01404"
        x="164.29181"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.66783094px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
          id="tspan14111"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.26458332"
-         y="208.48488"
+         y="209.01404"
          x="164.29181"
          sodipodi:role="line">Log In</tspan></text>
     <rect
@@ -417,10 +421,15 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
-       style="display:inline;fill:#909194;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="display:inline;fill:#7e7f83;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        d="m 1.89336,359.25164 0,16.93334 0,2.11667 0,7.40833 270.93332,0 0,-7.40833 0,-2.11667 0,-16.93334 -270.93332,0 z"
        id="rect46897-9"
        inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path15452"
+       d="m 1.89336,359.25164 0,16.93334 0,2.11667 0,7.40833 270.93332,0 0,-7.40833 0,-2.11667 0,-16.93334 -270.93332,0 z"
+       style="display:inline;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:0.26458332" />
     <rect
        style="display:inline;fill:url(#linearGradient106969-6);fill-opacity:1;stroke:none;stroke-width:0.26458332"
        id="rect9546-2"
@@ -806,7 +815,7 @@
        width="7.7549739"
        height="0.79374999"
        x="7.4495969"
-       y="-359.76376"
+       y="-359.23459"
        transform="scale(1,-1)"
        inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
        inkscape:export-xdpi="90"
@@ -1253,7 +1262,7 @@
        id="g23790"
        transform="matrix(0.26458333,0,0,0.26458333,8.626673,375.5429)">
       <g
-         transform="translate(360,12)"
+         transform="translate(360,10)"
          id="g23532">
         <rect
            style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98039216"
@@ -1294,12 +1303,12 @@
          inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
          sodipodi:linespacing="125%"
          id="text25512"
-         y="5.4450989"
+         y="3.4450989"
          x="453.30933"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.10152245px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.80203056px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1"
-           y="5.4450989"
+           y="3.4450989"
            x="453.30933"
            id="tspan25514"
            sodipodi:role="line">Maria tatica Leandro</tspan></text>
