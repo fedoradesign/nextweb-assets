@@ -161,7 +161,7 @@
        xlink:href="#linearGradient9167"
        id="linearGradient106969-6"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.26458333,0,0,0.28908179,1.89336,379.1598)"
+       gradientTransform="matrix(0.26458333,0,0,0.2939815,1.89336,379.61861)"
        x1="368"
        y1="-119.48139"
        x2="368"
@@ -417,7 +417,7 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
-       style="display:inline;fill:#58595b;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="display:inline;fill:#909194;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        d="m 1.89336,359.25164 0,16.93334 0,2.11667 0,7.40833 270.93332,0 0,-7.40833 0,-2.11667 0,-16.93334 -270.93332,0 z"
        id="rect46897-9"
        inkscape:connector-curvature="0" />
@@ -425,9 +425,9 @@
        style="display:inline;fill:url(#linearGradient106969-6);fill-opacity:1;stroke:none;stroke-width:0.26458332"
        id="rect9546-2"
        width="271.19791"
-       height="15.610416"
+       height="15.875001"
        x="1.6287655"
-       y="336.48041"
+       y="336.21585"
        inkscape:export-filename="/home/duffy/SparkleShare/nextweb-assets/Mockups/Community Hubs/Design/design-hub-idea_notes.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
