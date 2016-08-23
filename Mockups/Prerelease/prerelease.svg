@@ -139,8 +139,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="836.49728"
-     inkscape:cy="730.14285"
+     inkscape:cx="756.49728"
+     inkscape:cy="970.14285"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -172,7 +172,9 @@
      transform="translate(534.35712,220.6378)">
     <g
        id="g171281"
-       transform="translate(-1300,0)">
+       transform="translate(-1300,0)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g171193">
         <image
@@ -9545,7 +9547,7 @@ AIP6H/ts+n0HbFW+AAAAAElFTkSuQmCC
            id="tspan171266"
            x="513.00372"
            y="341.78894"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#3c6eb4">64-bit 443MB image</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#3c6eb4">F25 Prerelease images</tspan></text>
       <image
          clip-path="url(#clipPath171272)"
          y="-220.6378"
@@ -12655,7 +12657,9 @@ AIP6H/ts+n0HbFW+AAAAAElFTkSuQmCC
     </g>
     <g
        id="g171299"
-       transform="translate(-3.3007814e-6,0)">
+       transform="translate(-3.3007814e-6,0)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <image
          y="-220.6378"
          x="-534.35712"
@@ -18873,7 +18877,9 @@ AIP6H/ts+n0HbFW+AAAAAElFTkSuQmCC
        style="image-rendering:optimizeQuality"
        preserveAspectRatio="none"
        height="1266"
-       width="1263" />
+       width="1263"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <image
        transform="translate(-3.3007814e-6,8)"
        width="1263"
@@ -21979,14 +21985,18 @@ AIP6H/ts+n0HbFW+AAAAAElFTkSuQmCC
        id="image171307"
        x="-534.35712"
        y="-220.6378"
-       clip-path="url(#clipPath171250)" />
+       clip-path="url(#clipPath171250)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <text
        sodipodi:linespacing="521%"
        id="text171309"
        y="704.19678"
        x="365.41406"
        style="font-style:normal;font-weight:normal;font-size:15.97318363px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
+       xml:space="preserve"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Covered By Your Grace';-inkscape-font-specification:'Covered By Your Grace';fill:#db3279"
          y="704.19678"
          x="365.41406"
@@ -21998,14 +22008,18 @@ AIP6H/ts+n0HbFW+AAAAAElFTkSuQmCC
        width="273"
        height="181"
        x="406.14285"
-       y="409.36221" />
+       y="409.36221"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <text
        sodipodi:linespacing="521%"
        id="text171351"
        y="449.74219"
        x="422.00677"
        style="font-style:normal;font-weight:normal;font-size:16.28052139px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
+       xml:space="preserve"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#3c6eb4"
          y="449.74219"
          x="422.00677"
@@ -22017,7 +22031,9 @@ AIP6H/ts+n0HbFW+AAAAAElFTkSuQmCC
        x="421.43588"
        y="478.74219"
        id="text171355"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          x="421.43588"
          y="478.74219"
@@ -22034,28 +22050,32 @@ AIP6H/ts+n0HbFW+AAAAAElFTkSuQmCC
        y="528.12854"
        x="450.08905"
        style="font-style:normal;font-weight:normal;font-size:14.56249142px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
+       xml:space="preserve"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#3c6eb4"
          y="528.12854"
          x="450.08905"
          id="tspan171392"
-         sodipodi:role="line">F25 Alpha image  <tspan
-   style="fill:#58595b"
-   id="tspan173038">(64-bit 443MB) </tspan></tspan></text>
+         sodipodi:role="line">Download F25 Alpha images </tspan></text>
     <rect
        y="401.38809"
        x="422.10437"
        height="20"
        width="80"
        id="rect171315"
-       style="opacity:1;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="opacity:1;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:13.18299294px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="427.98816"
        y="416.51404"
        id="text171317"
-       sodipodi:linespacing="521%"><tspan
+       sodipodi:linespacing="521%"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan171319"
          x="427.98816"
@@ -22067,7 +22087,9 @@ AIP6H/ts+n0HbFW+AAAAAElFTkSuQmCC
        width="32"
        height="31"
        x="411.64288"
-       y="233.3622" />
+       y="233.3622"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <use
        height="100%"
        width="100%"
@@ -22075,7 +22097,9 @@ AIP6H/ts+n0HbFW+AAAAAElFTkSuQmCC
        x="0"
        transform="matrix(0.15765225,0,0,0.15765225,427.04288,240.80835)"
        xlink:href="#download"
-       id="use173000" />
+       id="use173000"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <use
        id="use173002"
        xlink:href="#download"
@@ -22083,14 +22107,18 @@ AIP6H/ts+n0HbFW+AAAAAElFTkSuQmCC
        x="0"
        y="0"
        width="100%"
-       height="100%" />
+       height="100%"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:14.56249142px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="450.08905"
        y="558.12854"
        id="text173004"
-       sodipodi:linespacing="521%"><tspan
+       sodipodi:linespacing="521%"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan173006"
          x="450.08905"
@@ -22103,11 +22131,15 @@ AIP6H/ts+n0HbFW+AAAAAElFTkSuQmCC
        x="0"
        y="0"
        width="100%"
-       height="100%" />
+       height="100%"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#db3279;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
        d="m 353.64288,697.3622 c 0,0 -60.95143,-19.74695 -18.03942,-31.24519 42.91202,-11.49824 180.23472,-7.8327 180.23472,-48.29376 0,-40.46105 0.8047,-47.46105 0.8047,-47.46105"
        id="path173040"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
   </g>
 </svg>
